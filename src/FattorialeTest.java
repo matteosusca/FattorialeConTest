@@ -6,8 +6,7 @@ class FattorialeTest {
 
 	@Test
 	void test() {
-		int n = 4;
-		assertEquals(24, FattorialeFunz.Fattoriale(n));
+		assertEquals("La data immessa è il 3 Marzo del 2001", FattorialeFunz.Giorno(3,3,2001));
 	}
 
 }
