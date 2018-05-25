@@ -7,7 +7,7 @@ class FattorialeTest {
 	@Test
 	void test() {
 		int n = 4;
-		assertEquals(24, FattorialeFunz.Fattoriale2(n));
+		assertEquals(24, FattorialeFunz.Fattoriale(n));
 	}
 
 }
