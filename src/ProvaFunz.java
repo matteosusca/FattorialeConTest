@@ -1,5 +1,5 @@
 
-public class FattorialeFunz {
+public class ProvaFunz {
 	public static int Fattoriale(int n) {
 		int fatt=1;
 		int i; 
@@ -52,7 +52,7 @@ public class FattorialeFunz {
 			meseString="Mese sconosciuto";
 			break;
 		}
-		return "La data immessa è il " + giorno + " " + meseString + " del " + anno;
+		return "La data immessa Ã¨ il " + giorno + " " + meseString + " del " + anno;
 	}
 
 	public static void main(String[] args) {
